@@ -1,4 +1,4 @@
-# EthExplorer (In Progress)
+# ETH-Explorer to connect your private ethereum network
 
 ![EthExplorer Screenshot](http://i.imgur.com/NHFYq0x.png)
 
